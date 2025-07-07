@@ -19,6 +19,14 @@
         "url": "https://github.com/huzaifaazim0"
         }
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huzaifaazim0/docx-mergex.git"
+    },
+    "bugs": {
+        "url": "https://github.com/huzaifaazim0/docx-mergex/issues"
+    },
+    "homepage": "https://github.com/huzaifaazim0/docx-mergex#readme",
     "license": "MIT",
     "dependencies": {
       "fast-xml-parser": "^4.3.5",
