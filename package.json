@@ -1,0 +1,29 @@
+{
+    "name": "docx-mergex",
+    "version": "0.0.1",
+    "description": "Merge .docx files with formatting preserved (pure Node.js)",
+    "main": "lib/merge-docx.js",
+    "bin": {
+      "docx-mergex": "./bin/cli.js"
+    },
+    "scripts": {
+      "start": "node bin/cli.js"
+    },
+    "keywords": ["docx", "merge", "combine", "office", "nodejs", "pure"],
+    "author": "Huzaifa Azim",
+    "email": "huzaifaazim0@gmail.com",
+    "contributors": [
+      {
+        "name": "Huzaifa Azim",
+        "email": "huzaifaazim0@gmail.com",
+        "url": "https://github.com/huzaifaazim0"
+        }
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "fast-xml-parser": "^4.3.5",
+      "fs-extra": "^11.1.1",
+      "jszip": "^3.10.1"
+    }
+  }
+  
